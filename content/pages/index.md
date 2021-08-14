@@ -34,7 +34,7 @@ seo:
     businesses
   extra:
     - name: 'og:type'
-      value: website
+      value: joshuadflynn.com
       keyName: property
     - name: 'og:title'
       value: SEO by Josh
