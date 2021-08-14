@@ -29,7 +29,9 @@ sections:
         style: button
 seo:
   title: SEO by Josh
-  description: The preview of the Fresh theme
+  description: >-
+    IWe are a provider of SEO services specializing in the unique needs of small
+    businesses
   extra:
     - name: 'og:type'
       value: website
