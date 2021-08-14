@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: SEO By Josh
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I provide SEO services and articles on how to optimize your site yourself
+      including reviews on tools and current best practices in the Industry
   - section_id: about
     type: section_content
     title: About
