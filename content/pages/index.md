@@ -33,9 +33,6 @@ seo:
     IWe are a provider of SEO services specializing in the unique needs of small
     businesses
   extra:
-    - name: 'og:type'
-      value: joshuadflynn.com
-      keyName: property
     - name: 'og:title'
       value: SEO by Josh
       keyName: property
