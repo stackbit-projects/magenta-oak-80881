@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: SEO By Josh
-    content: >
-      I provide SEO services and articles on how to optimize your site yourself
-      including reviews on tools and current best practices in the Industry
+    content: |
+      SEO Services tailored to the Unique needs of small businesses. 
   - section_id: about
     type: section_content
     title: About
