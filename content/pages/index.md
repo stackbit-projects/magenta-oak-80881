@@ -40,7 +40,9 @@ seo:
       value: SEO by Josh
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        We are a provider of SEO Services specializing in the unique needs of
+        small businesses
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
