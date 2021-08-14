@@ -50,7 +50,9 @@ seo:
     - name: 'twitter:title'
       value: SEO by Josh
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        We are a provider of SEO Services specializing in the unique needs of
+        small businesses
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
